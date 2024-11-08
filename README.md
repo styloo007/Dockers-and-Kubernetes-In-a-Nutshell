@@ -52,7 +52,7 @@ A typical use case is:
 
 Both Docker and Kubernetes have become fundamental tools in modern DevOps and cloud-native architecture, helping teams to deliver applications more reliably and efficiently.
 
-** Below is a small implementation of Dockers and Kubernetes **
+Below is a small implementation of Dockers and Kubernetes
 
 # Flask Application with Docker and Kubernetes
 
