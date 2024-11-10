@@ -116,7 +116,7 @@ The `Dockerfile` defines the environment for the Flask application:
 
 ```dockerfile
 # Dockerfile
-FROM python:3.8-slim
+FROM python:3.10.6
 
 WORKDIR /app
 COPY app.py /app
